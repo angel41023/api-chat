@@ -1,6 +1,7 @@
-# Api chat
+# Node Api chat
 
 Backend basic to create chats with other users
+
 
 
 ## License
